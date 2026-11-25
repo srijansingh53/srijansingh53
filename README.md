@@ -2,9 +2,9 @@
 
 # 👋 Hey, I'm Srijan
 
-**Backend Engineer · Distributed Systems · Agentic AI Builder · Learning in Public**
+**Ruby on Rails Developer · Backend & Distributed Systems · Agentic AI Builder**
 
-I build backend systems that scale, and lately I've been building AI tools that are actually useful.
+Rails engineer by trade. I build backend systems that hold up under real traffic, and AI tools that are actually useful.
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0F172A?style=for-the-badge&logo=gatsby&logoColor=white)](https://srijansingh53.github.io/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srijan-singh-67538214a)
@@ -21,10 +21,9 @@ I build backend systems that scale, and lately I've been building AI tools that 
 
 | | |
 |---|---|
-| 🧑‍💻 **What I do** | Backend engineer with 5+ years on Ruby on Rails, Python, PostgreSQL, Kafka and Redis. Mostly distributed systems, query performance, and breaking monoliths into services without breaking production. |
-| 🤖 **Current obsession** | Agentic AI: building with the Claude Agent SDK and MCP, writing custom skills, and wiring LLMs into real workflows where the output has to be right, not just plausible. |
-| 🐍 **Learning** | Going back to Python from the fundamentals: internals, memory model, idiomatic patterns. No more just using it. |
-| 🧠 **Practicing** | DSA and system design, in public and on a schedule. |
+| 💎 **What I do** | Ruby on Rails developer with 5+ years of production experience: Rails, PostgreSQL, Sidekiq, Kafka and Redis. Distributed systems, query performance, and breaking Rails monoliths into services without breaking production. |
+| 🤖 **Agentic AI** | Building with the Claude Agent SDK and MCP, writing custom skills, and wiring LLMs into real workflows where the output has to be right, not just plausible. |
+| 🧪 **Exploring** | Go for high-throughput services, and newer AI tooling: agent orchestration, evals, and MCP servers. |
 | 🎓 **Background** | B.Tech, IIIT Jabalpur (2017–2021). Got into ML in college through computer vision and NLP projects, two of which reached national hackathon finals. |
 | 📍 **Based in** | Bengaluru, India |
 
@@ -32,10 +31,10 @@ I build backend systems that scale, and lately I've been building AI tools that 
 
 ## 🔭 What I'm doing right now
 
-- 🚀 **Shipped [ATS Engine](#-ats-engine)**: a resume-vs-JD scorer that explains every point and tells you what to fix first.
+- 🚀 **Shipped [ATS Engine](https://ats-engine-r2i1.onrender.com/)**: a resume-vs-JD scorer that explains every point and tells you what to fix first.
 - 🤖 **Building with agents**: Claude Agent SDK, MCP servers, Claude Code skills, and agentic workflows for debugging, security audits and alerting.
-- 🐍 **Python from the ground up**: CPython internals, GC, async, FastAPI.
-- 📐 **System design and DSA**: heaps, order-statistic trees, streaming problems, and design writeups.
+- 🐹 **Go**: building small, fast services alongside Rails, for the workloads where throughput matters most.
+- 🧪 **AI engineering**: agent orchestration, evals that catch regressions, and turning prompts into deterministic, testable pipelines.
 
 ---
 
@@ -45,7 +44,7 @@ I build backend systems that scale, and lately I've been building AI tools that 
 
 <div align="center">
 
-[![Live App](https://img.shields.io/badge/Try%20it-Live%20App-22C55E?style=for-the-badge&logo=render&logoColor=white)](APP_URL)
+[![Live App](https://img.shields.io/badge/Try%20it-Live%20App-22C55E?style=for-the-badge&logo=render&logoColor=white)](https://ats-engine-r2i1.onrender.com/)
 [![Repo](https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srijansingh53/ATS-Engine)
 
 </div>
@@ -111,6 +110,7 @@ flowchart LR
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -155,8 +155,8 @@ flowchart LR
 
 ## 🤝 Say hi
 
-Open to talking about backend systems, agentic AI, and side projects. Open an issue on a repo, or reach out on [LinkedIn](https://linkedin.com/in/srijan-singh-67538214a) or by [email](mailto:srijansingh53@gmail.com).
+Happy to talk Rails, backend systems, agentic AI, and side projects. Open an issue on a repo, or reach out on [LinkedIn](https://linkedin.com/in/srijan-singh-67538214a) or by [email](mailto:srijansingh53@gmail.com).
 
 <div align="center">
-<sub>⚙️ Backend | 🤖 Agentic AI | 🐍 Python | 📐 System Design</sub>
+<sub>💎 Rails | ⚙️ Backend | 🤖 Agentic AI | 🐹 Go</sub>
 </div>
